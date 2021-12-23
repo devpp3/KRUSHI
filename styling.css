@@ -1,0 +1,60 @@
+h1{
+    background-color: black;
+    color: white;
+}
+
+h2{
+    background-color: black;
+    color:white;
+    height: 40px;
+    width: 250px;
+    font-size: 30px;
+}
+
+p{
+    color: black;
+}
+
+.myname{
+    background-color:coral;
+    color:darkred;
+    height: 50px;
+    width: 400px;
+    font-size: 30px;
+}
+
+.paras{
+    background-color:coral;
+    color:white;
+}
+
+.para{
+    color: black;
+}
+
+.myname{
+    background-color:coral;
+    color:white;
+}
+
+.para{
+    color: black;
+}
+
+.myname{
+    background-color:coral;
+    color:white;
+}
+
+.para{
+    color: black;
+}
+
+.myname{
+    background-color: coral;
+    color:white;
+}
+
+.para{
+    color: black;
+}
